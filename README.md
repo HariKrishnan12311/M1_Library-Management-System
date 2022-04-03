@@ -4,3 +4,14 @@
 
 
 📚📔📕📖📗📙 
+
+
+Code Quality Score
+
+
+![Code Quality Score](https://api.codiga.io/project/32553/score/svg)
+
+Code Grade
+
+
+![Code Grade](https://api.codiga.io/project/32553/status/svg)
