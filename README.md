@@ -15,3 +15,15 @@ Code Grade
 
 
 ![Code Grade](https://api.codiga.io/project/32553/status/svg)
+
+
+ Codacy Badge
+ 
+ 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/54b8393b927a4b0f8c34a19f8a1363a1)](https://app.codacy.com/gh/HariKrishnan12311/M1_Library-Management-System?utm_source=github.com&utm_medium=referral&utm_content=SonikaAalla/Stepin_Librarymanagmentsystem&utm_campaign=Badge_Grade_Settings)
+
+ Git Inspector
+ 
+ 
+[![Contribution Check - Git Inspector](https://github.com/HariKrishnan12311/M1_Library-Management-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/HariKrishnan12311/M1_Library-Management-System/actions/workflows/gitinspector.yml)
