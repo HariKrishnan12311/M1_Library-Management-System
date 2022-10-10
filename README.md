@@ -30,19 +30,19 @@ Code Grade
 
 |REQUIREMENT ID|TEST CASE ID|DESCRIPTION|EXPECTED INPUT|EXPECTED OUTPUT|ACTUAL OUTPUT|
 |:------:|:------:|:------:|:------:|:------:|:------:|
-|HLR1| | ||||
-|HLR2| | ||||
-|HLR3| | ||||
-|LLR1| | ||||
-|LLR2| | ||||
-|LLR3| | ||||
-|LLR4| | ||||
-|LLR5| | ||||
-|LLR6| | ||||
-|LLR7| | ||||
-|LLR8| | ||||
-|LLR9| | ||||
-|LLR10| | ||||
+|HLR1|W301  |To call the correct Sheet in the Excel|||
+|HLR2|W302  |Range of PS.no. should not Exceed ||||
+|HLR3|W303  |Printing Statements should be clear||||
+|LLR1| R501 |Printing all the value in the row ||||
+|LLR2|R502 | Accessing a particular cell ||||
+|LLR3| R503| All the data should be accessed ||||
+|LLR4| R504| printing the output in a new excel||||
+|LLR5| R505| Try and Exception shoild be used||||
+|LLR6| R506| ||||
+|LLR7| R507| ||||
+|LLR8| R508| ||||
+|LLR9| R509| ||||
+|LLR10|R510 | ||||
 
 
 
