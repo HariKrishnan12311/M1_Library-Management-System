@@ -27,3 +27,23 @@ Code Grade
  
  
 [![Contribution Check - Git Inspector](https://github.com/HariKrishnan12311/M1_Library-Management-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/HariKrishnan12311/M1_Library-Management-System/actions/workflows/gitinspector.yml)
+
+|REQUIREMENT ID|TEST CASE ID|DESCRIPTION|EXPECTED INPUT|EXPECTED OUTPUT|ACTUAL OUTPUT|
+|:------:|:------:|:------:|:------:|:------:|:------:|
+|HLR1| | ||||
+|HLR2| | ||||
+|HLR3| | ||||
+|LLR1| | ||||
+|LLR2| | ||||
+|LLR3| | ||||
+|LLR4| | ||||
+|LLR5| | ||||
+|LLR6| | ||||
+|LLR7| | ||||
+|LLR8| | ||||
+|LLR9| | ||||
+|LLR10| | ||||
+
+
+
+
